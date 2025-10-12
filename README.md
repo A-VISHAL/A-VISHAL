@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **MY GMAIL** For Collaboration/Project or Anything Else. �
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ i_am_avishal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:56vishal86@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:56vishal86@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
