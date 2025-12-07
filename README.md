@@ -1,15 +1,15 @@
 # 💫 Hi 👋, I'm A VISHAL
 **A passionate EDIT IN READ ME  || SAME || SAME **
 
-Email Me 👉 ✉️ **MY GMAIL** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ 56vishal86@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** HE HIM
+- 📫   56vishal86@gmail.com
+- 😄  HE HIM
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
