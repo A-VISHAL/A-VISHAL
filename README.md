@@ -32,15 +32,15 @@
 <p align="left">
   
 
-  <a href="https://discord.com/users/nomercy0940_78751">
+  <a href="https://discord.com/channels/@me">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Monishwaran45">
+  <a href="https://github.com/A-VISHAL">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/monishwaran-k-ba0a1230b/">
+  <a href="https://www.linkedin.com/in/avishal7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>>
 </p>
