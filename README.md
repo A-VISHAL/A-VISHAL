@@ -274,16 +274,7 @@ class Vishal:
 
 ---
 
-## 🤝 Open to Collaborations
 
-```
-✅  AI Research & LLM Applications
-✅  Agentic Systems & Multi-Agent Frameworks
-✅  RAG Pipelines & Vector Search
-✅  Startups & Production AI Products
-```
-
----
 
 <div align="center">
 
@@ -297,17 +288,7 @@ class Vishal:
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark"/>
-</p>
-
----
 
 ## 🤝 Let's Build Something Together
 
