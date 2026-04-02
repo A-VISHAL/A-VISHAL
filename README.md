@@ -294,3 +294,49 @@ class Vishal:
 ![Profile Views](https://komarev.com/ghpvc/?username=A-VISHAL&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
+
+## 🚀 Contributions & Consistency
+
+- 🔢 **Total Contributions:** 252  
+- 🔥 **Current Streak:** 0 (Apr 2)  
+- 🏆 **Longest Streak:** 15 days (Feb 8 – Feb 22)  
+
+> Consistency is key — showing up every day builds momentum.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark"/>
+</p>
+
+---
+
+## 🤝 Let's Build Something Together
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+> *“The best error message is the one that never shows up.”*  
+> — Thomas Fuchs
