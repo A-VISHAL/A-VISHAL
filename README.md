@@ -1,121 +1,296 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>A VISHAL</strong>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=A%20VISHAL&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Developer%20%E2%80%A2%20Agentic%20AI%20Architect&descAlignY=58&descSize=18&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<h3>AI Engineer | LLM Developer | Agentic AI Architect | GenAI • ML • RAG</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p> I build intelligent systems powered by Large Language Models, Agentic AI frameworks, 
-    and Retrieval-Augmented Generation (RAG).
-  </p>
-   <p>
-    🚀 Designing autonomous multi-agent architectures <br/>
-    🧠 Building scalable LLM applications with memory & reasoning <br/>
-    📊 Applying ML models for real-world optimization problems <br/>
-    ⚡ Turning AI research into production-ready systems
-  </p>
-
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_AI_&_Research_Collabs-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🧠_Building_Autonomous_Systems-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  
-
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/A-VISHAL">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/avishal7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>>
-</p>
-
-
- 
 </div>
 
-<br clear="all" />
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLM+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Frameworks;Turning+AI+Research+%E2%86%92+Production;GenAI+Engineer+%7C+550%2B+LeetCode+Problems" alt="Typing SVG" />
 
-## 🛠️ Skills
+</div>
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>🧠 AI / Machine Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 <br/>
-LLMs • Generative AI • Agentic AI • RAG • NLP <br/>
-LangChain • HuggingFace • Scikit-Learn • Prompt Engineering
 
-</td>
+<div align="center">
 
-<td width="50%" align="center">
-<h3>⚙️ Backend & AI APIs</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishal7)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-VISHAL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
-<br/>
-REST APIs • AI Microservices • Model Deployment <br/>
-OpenAI API • Claude API • Structured Output Systems
+</div>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases & Vector Stores</h3>
+## 👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
-<br/>
-Pinecone • FAISS • Supabase • Embeddings <br/>
-Semantic Search • Data Pipelines
+```python
+class Vishal:
+    role       = "AI Engineer & LLM Developer"
+    location   = "Chennai, India"
+    education  = "B.E. Computer Science — Chennai Institute of Technology (CGPA: 8.2)"
 
-</td>
+    focus = [
+        "Autonomous multi-agent architectures",
+        "Scalable LLM applications with memory & reasoning",
+        "Retrieval-Augmented Generation (RAG) systems",
+        "Production-ready AI microservices",
+    ]
 
-<td width="50%" align="center">
-<h3>🌐 Frontend & Product Engineering</h3>
+    currently_building = "SkillBridge AI — Agentic Career Operating System"
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-<br/>
-TypeScript • UI/UX Design • Responsive Systems
+    fun_fact = "I don't just use AI. I teach it to make decisions."
+```
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" align="center">
-<h3>☁️ DevOps & Deployment</h3>
+## 🧠 Agentic AI Architecture (How I Think)
 
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
-<br/>
-CI/CD • Scalable Deployment • Model Serving
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     MY DEVELOPMENT PHILOSOPHY                        │
+└─────────────────────────────────────────────────────────────────────┘
 
-</td>
+          PROBLEM                         SOLUTION
+             │                               │
+             ▼                               ▼
+    ┌─────────────────┐           ┌─────────────────────┐
+    │  Real-World     │           │  Agentic AI System  │
+    │  Complexity     │  ──────▶  │  with Memory +      │
+    │                 │           │  Reasoning Loop     │
+    └─────────────────┘           └──────────┬──────────┘
+                                             │
+                    ┌────────────────────────┼─────────────────────────┐
+                    ▼                        ▼                         ▼
+           ┌──────────────┐       ┌──────────────────┐      ┌────────────────┐
+           │   LLM Core   │       │   RAG Pipeline   │      │ Multi-Agent    │
+           │              │       │                  │      │ Orchestration  │
+           │ Claude / GPT │       │ Embed → Index    │      │                │
+           │ + Structured │       │ → Retrieve       │      │ Agent A ──────▶│
+           │   Outputs    │       │ → Augment        │      │ Agent B ──────▶│
+           │              │       │ → Generate       │      │ Agent C ──────▶│
+           └──────┬───────┘       └──────┬───────────┘      └───────┬────────┘
+                  │                      │                           │
+                  └──────────────────────┴───────────────────────────┘
+                                         │
+                                         ▼
+                              ┌──────────────────────┐
+                              │   Production-Ready   │
+                              │   AI Application     │
+                              │   (Deployed & Live)  │
+                              └──────────────────────┘
+```
 
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
+---
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-<br/>
-Prompt Debugging • API Testing • System Design
-</td>
-</tr>
-</table>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 AI / ML & LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Vector Stores
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ SkillBridge AI — Agentic Career Operating System
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      SKILLBRIDGE AI — AGENTIC LOOP                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+  ┌──────────┐   ┌──────────────┐   ┌──────────────┐   ┌────────────────┐
+  │  RESUME  │──▶│    SKILL     │──▶│  JD MATCHING │──▶│  GAP ANALYSIS  │
+  │  UPLOAD  │   │  EXTRACTION  │   │ + FOCUS ENGINE│   │  + ROADMAP     │
+  └──────────┘   └──────────────┘   └──────────────┘   └───────┬────────┘
+                                                                  │
+        ┌─────────────────────────────────────────────────────────┘
+        ▼
+  ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌────────────┐
+  │   ADAPTIVE   │──▶│    MOCK      │──▶│   PROGRESS   │──▶│  JOB       │
+  │     QUIZ     │   │  INTERVIEW   │   │  TRACKING    │   │  MATCHING  │
+  └──────────────┘   └──────────────┘   └──────┬───────┘   └────────────┘
+                                                │
+                            ┌───────────────────┘
+                            ▼
+                 ┌─────────────────────────┐
+                 │   🧠 AI DECISION ENGINE  │
+                 │                          │
+                 │  < 60%  → Revise        │
+                 │  60-80% → Move Ahead    │
+                 │  > 80%  → Job Ready!    │
+                 └─────────────────────────┘
+```
+
+> **Stack:** Python · FastAPI · React · Anthropic Claude · RAG · Pydantic  
+> **Impact:** End-to-end agentic loop — adapts every session until placement
+
+---
+
+### 🏥 MediFlow — AI Hospital Bed Management
+
+```
+  Patient Arrives ──▶ Risk ML Model ──▶ Bed Allocation AI ──▶ Smart Routing
+                            │                    │                   │
+                      (Urgency Score)      (Availability)    (Google Maps API)
+```
+
+> **Stack:** Python · ML · Google Maps API · FastAPI  
+> **Impact:** Reduced emergency response allocation time with AI-driven routing
+
+---
+
+### 📚 StudyVerse — AI Collaborative Learning Platform
+
+```
+  Student Activity ──▶ Behaviour Analysis ──▶ Wellness Insights ──▶ Focus Plan
+         │                   (ML Models)           (NLP)                │
+   (Tracking Layer)                                              (Personalised)
+```
+
+> **Stack:** ML · NLP · Python · React  
+> **Impact:** Mental health & focus tracking for students using behavioural AI
+
+---
+
+### 🧾 AI Resume Screening & Hackathon Evaluation System
+
+```
+  Resume Input ──▶ ATS Parser ──▶ JD Matching ──▶ Scoring Model ──▶ Gap Report
+```
+
+> **Stack:** Python · NLP · Claude API · Pydantic  
+> **Impact:** Automated candidate evaluation pipeline with skill-gap recommendations
+
+---
+
+## 💼 Experience
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🧠  AI Intern — BSAP Inc (On-Site)          Nov 2025 – Feb 2026│
+├─────────────────────────────────────────────────────────────────┤
+│  • Built & deployed LLM-based application (NLP + backend API)  │
+│  • Designed intelligent database querying systems              │
+│  • Automated response workflows → improved system performance  │
+│  • Contributed to testing, optimization & deployment           │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  📊  Data Analytics Intern — ZIP Industries (Hybrid)            │
+├─────────────────────────────────────────────────────────────────┤
+│  • Data cleaning, preprocessing & EDA                          │
+│  • Built interactive dashboards for business insights          │
+│  • Developed forecasting dashboards for trend prediction       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎓 Education & Certifications
+
+**B.E. Computer Science and Engineering**  
+📍 Chennai Institute of Technology · CGPA: **8.2 / 10**
+
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-CCNA_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-GenAI_%2B_ML_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-AI_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-IoT_Cloud_Engineer_(O_Grade)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Intro-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Achievement | 🏟️ Event | 📊 Result |
+|---|---|---|
+| Hackathon Finalist | Glytch Hackathon, VIT Chennai | **Top 15 / 100+ teams** |
+| Top 15 | Panda Hacks | **Top 15 / 325 teams** |
+| Competitive Programming | LeetCode | **550+ problems · Rating 1650+** |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-VISHAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-VISHAL&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-VISHAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="150"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-VISHAL&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Open to Collaborations
+
+```
+✅  AI Research & LLM Applications
+✅  Agentic Systems & Multi-Agent Frameworks
+✅  RAG Pipelines & Vector Search
+✅  Startups & Production AI Products
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*"Building the future with intelligent autonomous systems."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=A-VISHAL&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
