@@ -295,15 +295,7 @@ class Vishal:
 
 </div>
 
-## 🚀 Contributions & Consistency
 
-- 🔢 **Total Contributions:** 252  
-- 🔥 **Current Streak:** 0 (Apr 2)  
-- 🏆 **Longest Streak:** 15 days (Feb 8 – Feb 22)  
-
-> Consistency is key — showing up every day builds momentum.
-
----
 
 ## 📊 GitHub Stats
 
@@ -320,23 +312,20 @@ class Vishal:
 ## 🤝 Let's Build Something Together
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/avishal7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:56vishal86@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/A-VISHAL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-username">
+  <a href="https://leetcode.com/avishal07">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 💡 Quote
 
-> *“The best error message is the one that never shows up.”*  
-> — Thomas Fuchs
