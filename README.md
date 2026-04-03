@@ -49,7 +49,7 @@ class Vishal:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     MY DEVELOPMENT PHILOSOPHY                        │
+│                     MY DEVELOPMENT PHILOSOPHY                       │
 └─────────────────────────────────────────────────────────────────────┘
 
           PROBLEM                         SOLUTION
@@ -57,7 +57,7 @@ class Vishal:
              ▼                               ▼
     ┌─────────────────┐           ┌─────────────────────┐
     │  Real-World     │           │  Agentic AI System  │
-    │  Complexity     │  ──────▶  │  with Memory +      │
+    │  Complexity     │  ──────▶  │  with Memory +     │
     │                 │           │  Reasoning Loop     │
     └─────────────────┘           └──────────┬──────────┘
                                              │
@@ -67,9 +67,9 @@ class Vishal:
            │   LLM Core   │       │   RAG Pipeline   │      │ Multi-Agent    │
            │              │       │                  │      │ Orchestration  │
            │ Claude / GPT │       │ Embed → Index    │      │                │
-           │ + Structured │       │ → Retrieve       │      │ Agent A ──────▶│
-           │   Outputs    │       │ → Augment        │      │ Agent B ──────▶│
-           │              │       │ → Generate       │      │ Agent C ──────▶│
+           │ + Structured │       │ → Retrieve       │      │ Agent A ─────▶│
+           │   Outputs    │       │ → Augment        │      │ Agent B ─────▶│
+           │              │       │ → Generate       │      │ Agent C ─────▶│
            └──────┬───────┘       └──────┬───────────┘      └───────┬────────┘
                   │                      │                           │
                   └──────────────────────┴───────────────────────────┘
@@ -140,15 +140,15 @@ class Vishal:
         ┌─────────────────────────────────────────────────────────┘
         ▼
   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌────────────┐
-  │   ADAPTIVE   │──▶│    MOCK      │──▶│   PROGRESS   │──▶│  JOB       │
+  │   ADAPTIVE   │──▶│    MOCK      ──▶│   PROGRESS   │─▶│  JOB       │
   │     QUIZ     │   │  INTERVIEW   │   │  TRACKING    │   │  MATCHING  │
   └──────────────┘   └──────────────┘   └──────┬───────┘   └────────────┘
                                                 │
                             ┌───────────────────┘
                             ▼
                  ┌─────────────────────────┐
-                 │   🧠 AI DECISION ENGINE  │
-                 │                          │
+                 │   🧠 AI DECISION ENGINE │
+                 │                         │
                  │  < 60%  → Revise        │
                  │  60-80% → Move Ahead    │
                  │  > 80%  → Job Ready!    │
@@ -160,31 +160,7 @@ class Vishal:
 
 ---
 
-### 🏥 MediFlow — AI Hospital Bed Management
 
-```
-  Patient Arrives ──▶ Risk ML Model ──▶ Bed Allocation AI ──▶ Smart Routing
-                            │                    │                   │
-                      (Urgency Score)      (Availability)    (Google Maps API)
-```
-
-> **Stack:** Python · ML · Google Maps API · FastAPI  
-> **Impact:** Reduced emergency response allocation time with AI-driven routing
-
----
-
-### 📚 StudyVerse — AI Collaborative Learning Platform
-
-```
-  Student Activity ──▶ Behaviour Analysis ──▶ Wellness Insights ──▶ Focus Plan
-         │                   (ML Models)           (NLP)                │
-   (Tracking Layer)                                              (Personalised)
-```
-
-> **Stack:** ML · NLP · Python · React  
-> **Impact:** Mental health & focus tracking for students using behavioural AI
-
----
 
 ### 🧾 AI Resume Screening & Hackathon Evaluation System
 
@@ -200,22 +176,22 @@ class Vishal:
 ## 💼 Experience
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🧠  AI Intern — BSAP Inc (On-Site)          Nov 2025 – Feb 2026│
-├─────────────────────────────────────────────────────────────────┤
+┌────────────────────────────────────────────────────────────────┐
+│  🧠  AI Intern — BSAP Inc (On-Site)        Nov 2025 – Feb 2026 │
+├────────────────────────────────────────────────────────────────┤
 │  • Built & deployed LLM-based application (NLP + backend API)  │
 │  • Designed intelligent database querying systems              │
 │  • Automated response workflows → improved system performance  │
 │  • Contributed to testing, optimization & deployment           │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────────────┐
-│  📊  Data Analytics Intern — ZIP Industries (Hybrid)            │
-├─────────────────────────────────────────────────────────────────┤
+┌────────────────────────────────────────────────────────────────┐
+│  📊  Data Analytics Intern — ZIP Industries (Hybrid)           │
+├────────────────────────────────────────────────────────────────┤
 │  • Data cleaning, preprocessing & EDA                          │
 │  • Built interactive dashboards for business insights          │
 │  • Developed forecasting dashboards for trend prediction       │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -244,7 +220,7 @@ class Vishal:
 | 🥇 Achievement | 🏟️ Event | 📊 Result |
 |---|---|---|
 | Hackathon Finalist | Glytch Hackathon, VIT Chennai | **Top 15 / 100+ teams** |
-| Top 15 | Panda Hacks | **Top 15 / 325 teams** |
+| Top 10 | HackIT 2.0 | **Top 10 / 200 teams** |
 | Competitive Programming | LeetCode | **550+ problems · Rating 1650+** |
 
 </div>
