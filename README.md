@@ -45,43 +45,6 @@ class Vishal:
 
 ---
 
-## 🧠 Agentic AI Architecture (How I Think)
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     MY DEVELOPMENT PHILOSOPHY                       │
-└─────────────────────────────────────────────────────────────────────┘
-
-          PROBLEM                         SOLUTION
-             │                               │
-             ▼                               ▼
-    ┌─────────────────┐           ┌─────────────────────┐
-    │  Real-World     │           │  Agentic AI System  │
-    │  Complexity     │  ──────▶  │  with Memory +     │
-    │                 │           │  Reasoning Loop     │
-    └─────────────────┘           └──────────┬──────────┘
-                                             │
-                    ┌────────────────────────┼─────────────────────────┐
-                    ▼                        ▼                         ▼
-           ┌──────────────┐       ┌──────────────────┐      ┌────────────────┐
-           │   LLM Core   │       │   RAG Pipeline   │      │ Multi-Agent    │
-           │              │       │                  │      │ Orchestration  │
-           │ Claude / GPT │       │ Embed → Index    │      │                │
-           │ + Structured │       │ → Retrieve       │      │ Agent A ─────▶│
-           │   Outputs    │       │ → Augment        │      │ Agent B ─────▶│
-           │              │       │ → Generate       │      │ Agent C ─────▶│
-           └──────┬───────┘       └──────┬───────────┘      └───────┬────────┘
-                  │                      │                           │
-                  └──────────────────────┴───────────────────────────┘
-                                         │
-                                         ▼
-                              ┌──────────────────────┐
-                              │   Production-Ready   │
-                              │   AI Application     │
-                              │   (Deployed & Live)  │
-                              └──────────────────────┘
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -121,57 +84,7 @@ class Vishal:
 
 </div>
 
----
 
-## 🚀 Featured Projects
-
-### ⭐ SkillBridge AI — Agentic Career Operating System
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      SKILLBRIDGE AI — AGENTIC LOOP                          │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-  ┌──────────┐   ┌──────────────┐   ┌──────────────┐   ┌────────────────┐
-  │  RESUME  │──▶│    SKILL     │──▶│  JD MATCHING │──▶│  GAP ANALYSIS  │
-  │  UPLOAD  │   │  EXTRACTION  │   │ + FOCUS ENGINE│   │  + ROADMAP     │
-  └──────────┘   └──────────────┘   └──────────────┘   └───────┬────────┘
-                                                                  │
-        ┌─────────────────────────────────────────────────────────┘
-        ▼
-  ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌────────────┐
-  │   ADAPTIVE   │──▶│    MOCK      ──▶│   PROGRESS   │─▶│  JOB       │
-  │     QUIZ     │   │  INTERVIEW   │   │  TRACKING    │   │  MATCHING  │
-  └──────────────┘   └──────────────┘   └──────┬───────┘   └────────────┘
-                                                │
-                            ┌───────────────────┘
-                            ▼
-                 ┌─────────────────────────┐
-                 │   🧠 AI DECISION ENGINE │
-                 │                         │
-                 │  < 60%  → Revise        │
-                 │  60-80% → Move Ahead    │
-                 │  > 80%  → Job Ready!    │
-                 └─────────────────────────┘
-```
-
-> **Stack:** Python · FastAPI · React · Anthropic Claude · RAG · Pydantic  
-> **Impact:** End-to-end agentic loop — adapts every session until placement
-
----
-
-
-
-### 🧾 AI Resume Screening & Hackathon Evaluation System
-
-```
-  Resume Input ──▶ ATS Parser ──▶ JD Matching ──▶ Scoring Model ──▶ Gap Report
-```
-
-> **Stack:** Python · NLP · Claude API · Pydantic  
-> **Impact:** Automated candidate evaluation pipeline with skill-gap recommendations
-
----
 
 ## 💼 Experience
 
