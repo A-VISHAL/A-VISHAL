@@ -29,28 +29,32 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
+<pre style="white-space: pre-wrap; word-break: break-word; overflow-x: hidden; margin: 0;">
 class Vishal:
     role       = "AI Engineer & LLM Developer"
     location   = "Chennai, India"
-    education  = "B.E. Computer Science — Chennai Institute of Technology (CGPA: 8.2)"
+    education  = "B.E. Computer Science — Chennai Institute
+                  of Technology (CGPA: 8.2)"
 
     focus = [
         "Autonomous multi-agent architectures",
         "Scalable LLM applications with memory & reasoning",
         "Retrieval-Augmented Generation (RAG) systems",
-        "Production-ready AI microservices",
+        "Production-ready AI microservices"
     ]
 
-    currently_building = "SkillBridge AI — Agentic Career Operating System"
+    currently_building = "SkillBridge AI —
+                          Agentic Career Operating System"
 
-    fun_fact = "I don't just use AI. I teach it to make decisions."
-```
+    fun_fact = "I don't just use AI.
+                I teach it to make decisions."
+</pre>
 
 </td>
+
 <td valign="middle" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 </td>
 </tr>
@@ -114,29 +118,6 @@ class Vishal:
 > › Built interactive dashboards for business insights
 > › Developed forecasting dashboards for trend prediction
 
----
-
-## Achievements
-
----
-
-### Best Contributor — Bindu Organisation  
-Awarded for outstanding contribution (Swags)
-
----
-
-### 2nd Place — OxBuild  
-Build AI Tools with Oxlo.ai  
-
----
-
-### Top 10 — HackIT 2.0  
-Ranked among top 10 out of 200 teams  
-
----
-
-### Competitive Programming — LeetCode  
-Solved 550+ problems · Rating 1700+  
 
 ---
 
