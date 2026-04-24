@@ -23,7 +23,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class Vishal:
@@ -43,15 +47,22 @@ class Vishal:
     fun_fact = "I don't just use AI. I teach it to make decisions."
 ```
 
----
+</td>
+<td valign="middle" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧠 AI / ML & LLMs
+### AI / ML & LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -59,24 +70,24 @@ class Vishal:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Databases & Vector Stores
+### Databases & Vector Stores
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -84,63 +95,52 @@ class Vishal:
 
 </div>
 
+---
 
+## Experience
 
-## 💼 Experience
+**`AI Intern`** · ResoluteX Technology Labs &nbsp;|&nbsp; *Apr 2026 – Jul 2026 · Remote · Dubai*
+> › Built GenAI apps using LLMs for real-world use cases
+> › Integrated AI models with backend architectures
+> › Contributed to model development, testing & deployment
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🧠  AI Intern — BSAP Inc (On-Site)        Nov 2025 – Feb 2026 │
-├────────────────────────────────────────────────────────────────┤
-│  • Built & deployed LLM-based application (NLP + backend API)  │
-│  • Designed intelligent database querying systems              │
-│  • Automated response workflows → improved system performance  │
-│  • Contributed to testing, optimization & deployment           │
-└────────────────────────────────────────────────────────────────┘
+**`AI Intern`** · BSAP Inc &nbsp;|&nbsp; *Nov 2025 – Feb 2026 · On-Site*
+> › Deployed LLM apps combining NLP & backend APIs
+> › Designed intelligent database querying systems
+> › Automated workflows → improved system efficiency
 
-┌────────────────────────────────────────────────────────────────┐
-│  📊  Data Analytics Intern — ZIP Industries (Hybrid)           │
-├────────────────────────────────────────────────────────────────┤
-│  • Data cleaning, preprocessing & EDA                          │
-│  • Built interactive dashboards for business insights          │
-│  • Developed forecasting dashboards for trend prediction       │
-└────────────────────────────────────────────────────────────────┘
-```
+**`Data Analytics Intern`** · ZIP Industries &nbsp;|&nbsp; *Hybrid*
+> › Data cleaning, preprocessing & exploratory data analysis
+> › Built interactive dashboards for business insights
+> › Developed forecasting dashboards for trend prediction
 
 ---
 
-## 🎓 Education & Certifications
-
-**B.E. Computer Science and Engineering**  
-📍 Chennai Institute of Technology · CGPA: **8.2 / 10**
-
-<div align="center">
-
-![Cisco](https://img.shields.io/badge/Cisco-CCNA_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-GenAI_%2B_ML_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-AI_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-IoT_Cloud_Engineer_(O_Grade)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Intro-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-</div>
+## Achievements
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 🏟️ Event | 📊 Result |
-|---|---|---|
-| Hackathon Finalist | Glytch Hackathon, VIT Chennai | **Top 15 / 100+ teams** |
-| Top 10 | HackIT 2.0 | **Top 10 / 200 teams** |
-| Competitive Programming | LeetCode | **550+ problems · Rating 1650+** |
-
-</div>
+### Best Contributor — Bindu Organisation  
+Awarded for outstanding contribution (Swags)
 
 ---
 
-## 📊 GitHub Stats
+### 2nd Place — OxBuild  
+Build AI Tools with Oxlo.ai  
+
+---
+
+### Top 10 — HackIT 2.0  
+Ranked among top 10 out of 200 teams  
+
+---
+
+### Competitive Programming — LeetCode  
+Solved 550+ problems · Rating 1700+  
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -163,23 +163,7 @@ class Vishal:
 
 ---
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%"/>
-
-*"Building the future with intelligent autonomous systems."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=A-VISHAL&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
-
-
-
-
-
-## 🤝 Let's Build Something Together
+## Let's Build Something Together
 
 <p align="center">
   <a href="https://linkedin.com/in/avishal7">
@@ -198,4 +182,12 @@ class Vishal:
 
 ---
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*"Building the future with intelligent autonomous systems."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=A-VISHAL&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
