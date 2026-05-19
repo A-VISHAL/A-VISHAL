@@ -121,28 +121,31 @@ class Vishal:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=A-VISHAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-VISHAL&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-VISHAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+</picture>
+&nbsp;
+<picture>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=A-VISHAL&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=86400" height="165" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-VISHAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-VISHAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="150" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-VISHAL&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-VISHAL&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)](https://github.com/A-VISHAL)
 
 </div>
-
----
 
 ## Let's Build Something Together
 
