@@ -121,31 +121,28 @@ class Vishal:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=A-VISHAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
-</picture>
-&nbsp;
-<picture>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=A-VISHAL&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=86400" height="165" alt="GitHub Streak"/>
-</picture>
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbishekRaj2007&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff9&ring=00fff9&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff9&sideLabels=00fff9&dates=8b949e" />
 
 </div>
+
+---
+
+
+## 🔥 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-VISHAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="150" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-VISHAL&bg_color=0d1117&color=00fff9&line=00fff9&point=ff6b6b&area_color=00fff910&area=true&hide_border=true&custom_title=VISHAL'S%20Contribution%20Graph%20⚡" width="98%" />
 
 </div>
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-VISHAL&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)](https://github.com/A-VISHAL)
-
-</div>
 
 ## Let's Build Something Together
 
